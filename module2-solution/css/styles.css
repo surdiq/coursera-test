@@ -1,10 +1,11 @@
 h1 {
-color:blue;
+color:red;
 }
+
 p{
-  border:1px Solid block;
+  border:5px Solid block;
   float: left;
-  margin-right: 10px;  
+  padding: 10px 10px 10px 10px;  
   box-sizing:border-box
 }
 #p1{
