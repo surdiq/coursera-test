@@ -2,11 +2,10 @@ h1 {
 color:blue;
 }
 p{
-width:50px;
-  height: 50px;
   border:1px Solid block;
   float: left;
-  margin-right: 10px  
+  margin-right: 10px;  
+  box-sizing:border-box
 }
 #p1{
   background-color:#A52A2A}
