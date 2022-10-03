@@ -1,0 +1,25 @@
+h1 {
+color:blue;
+}
+p{
+width:50px;
+  height: 50px;
+  border:1px Solid block;
+  float: left;
+  margin-right: 10px  
+}
+#p1{
+  background-color:#A52A2A}
+  #p2{
+  background-color:#FFA07A}
+  #p3{
+  background-color:#7FFF00}
+
+@media (min-width:1200px){
+  #p1{
+  width:33.3%}
+  #p2{
+  width:33.3%}
+  #p3{
+  width:33.3%}
+}
