@@ -1,15 +1,18 @@
+*{ box-sizing:border-box}
+
 h1 {
 color:red;
 text-align: center;
   
 }
 
+
 p{
   border:5px Solid block;
   float: left;
   padding: 2px 2px 2px 2px; 
-  margin: 2px 2px 2px 2px;
-  box-sizing:border-box
+  margin: 5px 5px 5px 5px;
+
 }
 #p1{
   background-color:#A52A2A}
@@ -20,18 +23,18 @@ p{
 
 @media (min-width:992px){
   #p1{
-  width:33.3%}
+  width:30%}
   #p2{
-  width:33.3%}
+  width:30%}
   #p3{
-  width:33.3%}
+  width:30%}
 }
 
 @media (min-width:768px) and  (max-width:991px){
   #p1{
-  width:50%}
+  width:47%}
   #p2{
-  width:50%}
+  width:47%}
   #p3{
   width:100%}
 }
