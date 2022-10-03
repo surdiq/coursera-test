@@ -1,5 +1,7 @@
 h1 {
 color:red;
+text-align: center;
+  
 }
 
 p{
@@ -15,7 +17,7 @@ p{
   #p3{
   background-color:#7FFF00}
 
-@media (min-width:1200px){
+@media (min-width:992px){
   #p1{
   width:33.3%}
   #p2{
@@ -23,3 +25,23 @@ p{
   #p3{
   width:33.3%}
 }
+
+@media (min-width:768px) and  (max-width:991px){
+  #p1{
+  width:50%}
+  #p2{
+  width:50%}
+  #p3{
+  width:100%}
+}
+
+@media (max-width:767px){
+  #p1{
+  width:100%}
+  #p2{
+  width:100%}
+  #p3{
+  width:100%}
+}
+
+
