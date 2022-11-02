@@ -5,7 +5,7 @@ background-color: #61122f;
 }
 
 /** Header **/
-.navbar {
+.navbar .container-fluid {
 background-color: #f6b319;
 border-radius: 0;
 border:0 
