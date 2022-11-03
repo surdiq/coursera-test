@@ -24,22 +24,9 @@ border:0
    
  
 
-h3 {
-    float: right;
-    width: 30%;
-    padding: 5px 0;
-    text-align: center;
-    border-bottom: 1px solid black;
-    border-left: 1px solid black;
-    font-size: 125%;
-    background-color: #F0FFF0;
-}
 
-h1 {
-    padding: 2%;
-    text-align: center;
-    font-size: 175%;
-}
+
+
 
 p {
     padding: 4%;
