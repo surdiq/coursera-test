@@ -16,12 +16,9 @@ border:0
     
 }
 
-.container {
-    border: 1px solid black;
+
    
- #first h3{ background-color: #A52A2;}
- #second h3{ background-color: #B8860;}
-  #third h3{ background-color: #D3D3D3;}
+ 
 
 h3 {
     float: right;
