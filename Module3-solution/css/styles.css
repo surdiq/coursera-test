@@ -46,7 +46,7 @@ navbar-nav {
     border: 1px solid #61122f;
     navbar-hover-color: #BDB76
 }
-.navbar button.navbar-toggle {
+.navbar button.navbar-toggler {
     clear: both;
     margin-top: -33px;
     navbar-hover-color: #BDB76
