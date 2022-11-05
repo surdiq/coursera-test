@@ -28,7 +28,10 @@ navbar-nav {
    nav-link-color: #FFF8D;
 }
 
-
+#nav-list a {
+    color: #951C49;
+    text-align: center;
+}
 
 
 
