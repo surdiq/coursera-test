@@ -31,14 +31,17 @@ navbar-nav {
 #nav-list a {
     color: #951C49;
     text-align: center;
-     background-color: #FFF8D
+    navbar-hover-color: #BDB76
+    
 }
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+.navbar button.navbar-toggle {
     border: 1px solid #61122f;
+    navbar-hover-color: #BDB76
 }
-.navbar-header button.navbar-toggle {
+.navbar button.navbar-toggle {
     clear: both;
     margin-top: -33px;
+    navbar-hover-color: #BDB76
 }
 
 
