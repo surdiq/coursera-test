@@ -36,11 +36,11 @@ navbar-nav {
 }
 
 .navbar-nav .nav-item .nav-link {
-    color: red;
+    color:#DC143;
 }
 .navbar-nav .nav-item.active .nav-link,
 .navbar-nav .nav-item:hover .nav-link {
-    color: pink;
+    color: #00FFF;
 }
 .navbar button.navbar-toggle {
     border: 1px solid #61122f;
