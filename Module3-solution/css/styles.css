@@ -35,19 +35,15 @@ border:0
 .navbar-nav .nav-item .nav-link {
     color:#DC143;
 }
-#nav-list .nav-item.active .nav-link,
-#nav-list .nav-item:hover .nav-link {
+#nav-list .nav-item.active,
+#nav-list .nav-item:hover {
     color: #00FFF;
 }
 .navbar button.navbar-toggler {
     border: 1px solid #61122f;
-    navbar-hover-color: #BDB76
+   background-color: #BDB76
 }
-.navbar button.navbar-toggler {
-    clear: both;
-    margin-top: -33px;
-    navbar-hover-color: #BDB76
-}
+
 
 
 
