@@ -34,6 +34,14 @@ navbar-nav {
     navbar-hover-color: #BDB76
     
 }
+
+.navbar-nav .nav-item .nav-link {
+    color: red;
+}
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: pink;
+}
 .navbar button.navbar-toggle {
     border: 1px solid #61122f;
     navbar-hover-color: #BDB76
