@@ -9,6 +9,8 @@ border-radius: 0;
 border:0 
 }
 
+.navbar {navbar-hover-color: #BDB76}
+
 * {
     margin: 0;
     padding: 0;
@@ -22,8 +24,8 @@ border:0
     background-color: #D3D3D3;
 }
    
-#list .nav-item {
-    background-color: #FFF8D;
+navbar-nav {
+   nav-link-color: #FFF8D;
 }
 
 
